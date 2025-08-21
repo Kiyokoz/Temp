@@ -1,13 +1,13 @@
-# Temp
+# NextStep
 - Jedson Marengoni e Giovanni Daniotti Beker de Souza
 
-O projeto consiste no desenvolvimento de um website simples e responsivo para uma loja de tênis "(fala um nome bom pa nois ai)"
+O projeto consiste no desenvolvimento de um website simples e responsivo para uma loja de tênis "NextStep"
 
 Página web de um pequeno comércio local
 
 O site terá:
 
-Página principal apresentando a loja, e tenis para venda com ou sem desconto ( a gente vai fazer o bgl de procurar tenis com descontos e tals acho q é uma boa )
+Página principal apresentando a loja, e tenis para venda com ou sem desconto 
 
 Página de cadastro para que clientes possam se registrar e posteriormente realizar login.
 
