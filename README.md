@@ -1,4 +1,5 @@
 # Temp
+- Jedson Marengoni e Giovanni Daniotti Beker de Souza
 
 O projeto consiste no desenvolvimento de um website simples e responsivo para uma loja de tênis "(fala um nome bom pa nois ai)"
 
