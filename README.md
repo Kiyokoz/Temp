@@ -2,7 +2,7 @@
 
 O projeto consiste no desenvolvimento de um website simples e responsivo para uma loja de tênis "(fala um nome bom pa nois ai)"
 
-- Página web de um pequeno comércio local
+Página web de um pequeno comércio local
 
 O site terá:
 
